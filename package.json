@@ -1,0 +1,23 @@
+{
+  "name": "ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desperattio/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desperattio/ajs/issues"
+  },
+  "homepage": "https://github.com/desperattio/ajs#readme",
+  "dependencies": {
+    "@desperattio/library": "^1.0.0"
+  }
+}
